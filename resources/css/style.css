@@ -27,9 +27,22 @@ p {
 }
 .location {
   background-image: url(../images/bkpic.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
 
 /*IDs*/
 #header {
   background-image: url(../images/bkpic.png);
+}
+#footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
+#footer p a {
+  font-size: 18px;
+  color: white;
 }
