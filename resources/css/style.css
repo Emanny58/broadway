@@ -1,9 +1,21 @@
 body {
   text-align: center;
+  font-family: helvetica;
 }
-#header {
-  background-image: url(../images/bkpic.png);
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.navigate p a {
+  font-size: 18px;
+  color: white;
 }
 .location {
+  background-image: url(../images/bkpic.png);
+}
+
+#header {
   background-image: url(../images/bkpic.png);
 }
