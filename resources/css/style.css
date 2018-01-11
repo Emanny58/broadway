@@ -1,3 +1,4 @@
+/*Tags*/
 body {
   text-align: center;
   font-family: helvetica;
@@ -7,7 +8,19 @@ h1 {
   font-weight: bold;
   color: white;
 }
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
 
+/*Classes*/
 .navigate p a {
   font-size: 18px;
   color: white;
@@ -16,6 +29,7 @@ h1 {
   background-image: url(../images/bkpic.png);
 }
 
+/*IDs*/
 #header {
   background-image: url(../images/bkpic.png);
 }
